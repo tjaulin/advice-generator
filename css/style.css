@@ -80,8 +80,17 @@ body {
 }
 
 /* Footer */
-.attribution { position: absolute; bottom: 0; font-size: 11px; text-align: center; margin-bottom: 15px;}
-.attribution a { color: var(--secondary-color); }
+.attribution { 
+    position: absolute; 
+    bottom: 0; 
+    font-size: 11px; 
+    text-align: center; 
+    margin-bottom: 15px;
+}
+
+.attribution a { 
+    color: var(--secondary-color); 
+}
 
 
 /* RESPONSIVE ZONE */
