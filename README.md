@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - Flexbox documentation (Mozilla)
-- [Example resource 2](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Using the fetch API documentation (Mozilla)
+- [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox) - Flexbox documentation (Mozilla)
+- [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) - Using the fetch API documentation (Mozilla)
 
 ## Author
 
