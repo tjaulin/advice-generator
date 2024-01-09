@@ -49,6 +49,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Gennecode](https://mes-projets.vercel.app/)
+- Website - [My Projects](https://mes-projets.vercel.app/)
 - Frontend Mentor - [@tjaulin](https://www.frontendmentor.io/profile/tjaulin)
 - Github - [@tjaulin](https://github.com/tjaulin)
